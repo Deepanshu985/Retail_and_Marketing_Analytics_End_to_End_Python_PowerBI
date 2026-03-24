@@ -93,10 +93,9 @@ Segments identified:
 
 A **3-page interactive Power BI dashboard** was created:
 
-![Retail Analysis Dashboard](dashboard/executivesummary.png)
-![Retail Analysis Dashboard](dashboard/RFM_Analytics.png)
-![Retail Analysis Dashboard](dashboard/Product_Performance.png)
-![Retail Analysis Dashboard](dashboard/CLV_Distribution.png)
+![Retail Analysis Dashboard](Dashboard/executivesummary.png)
+![Retail Analysis Dashboard](Dashboard/RFM_Analytics.png)
+![Retail Analysis Dashboard](Dashboard/ProductPerformance.png)
 
 ---
 
